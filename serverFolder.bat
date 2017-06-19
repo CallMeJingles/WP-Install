@@ -6,5 +6,5 @@
  >> .\logs\serverDir.txt echo chmod 777 %1
  >> .\logs\serverDir.txt echo close
  >> .\logs\serverDir.txt echo quit
- psftp -l cwavesales -pw 8PEwNp3VC9sXYT4VP5fN -b .\logs\serverDir.txt > .\logs\psFTP.txt
+ psftp -l cwavesales -pw xxxxxxxxxxxxxx -b .\logs\serverDir.txt > .\logs\psFTP.txt
 exit
